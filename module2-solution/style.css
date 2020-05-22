@@ -1,6 +1,6 @@
 <style>
 
-*, *::before, *::after {
+*{
   box-sizing: border-box;
 }
 body{
@@ -25,7 +25,7 @@ h1 {
   font-family: cursive;
   color: black;
   text-align: justify;
-  overflow:hidden;
+  
 }
 
 #menu1{
