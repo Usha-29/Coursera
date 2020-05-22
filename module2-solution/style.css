@@ -30,7 +30,7 @@ margin-block-start: 1em;
   font-family: cursive;
   color: black;
   text-align: justify;
-  overflow:scroll
+  overflow: hidden;
 }
 
 #menu1{
